@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+dimod
+dwave-ocean-sdk
+matplotlib
+seaborn
